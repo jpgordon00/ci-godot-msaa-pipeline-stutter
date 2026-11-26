@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "godot-msaa-pipeline-stutter",
+  "repository": "https://github.com/jpgordon00/ci-godot-msaa-pipeline-stutter",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/godot-msaa-pipeline-stutter/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/godot-msaa-pipeline-stutter",
+  "catalog_commit": "f51b30f7ce3208bd3264f623eec19752dd973433"
+}
